@@ -1,6 +1,5 @@
 /**
-* Template Name: Tempo
-* Updated: Jan 09 2024 with Bootstrap v5.3.2
+* Template Name: Tempo - v4.7.0
 * Template URL: https://bootstrapmade.com/tempo-free-onepage-bootstrap-theme/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
